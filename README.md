@@ -18,4 +18,4 @@ http//:127.0.0.1:4045/update/admin/:id
 ```delete account```
 ```
 http//:127.0.0.1:4045/delete/admin/:id
-```
+``` 
